@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "ADFwafademoset"
+		},
+		"linkedservice_github_connectionString": {
+			"value": ""
 		}
 	}
 }
