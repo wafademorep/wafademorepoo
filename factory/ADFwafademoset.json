@@ -1,0 +1,9 @@
+{
+	"name": "ADFwafademoset",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3536b501-6365-4755-ae4d-b716ad57062f",
+		"tenantId": "ee1466da-a045-49f3-9c6d-eba112b42f82"
+	}
+}
